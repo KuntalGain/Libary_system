@@ -1,6 +1,6 @@
 # Libary_system 1.0
 
-## Personal Project build by Myself ,
+## Personal Project build by Kuntal Gain ,
 
 ## Features ✅
 
